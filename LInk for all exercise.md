@@ -1,0 +1,2 @@
+# python_basics
+https://pynative.com/python-exercises-with-solutions/
